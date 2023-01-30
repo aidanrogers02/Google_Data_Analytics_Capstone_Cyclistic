@@ -12,6 +12,6 @@ visualizations.
 ## Ask
 First I had to ask questions about what my stakeholders would want and how I was meant to answer the guiding question.
 
--Guiding Question: "How do annual members and casual riders use Cyclistic bikes differently?"
-+Business Task: To find trends that show how annual members and casual riders us Cyclistic differently. Use these trends to give recommendations for the marketing team to turn casual riders into members.
-+Shareholders: Marketing team and Executive team
+* Guiding Question: "How do annual members and casual riders use Cyclistic bikes differently?"
+* Business Task: To find trends that show how annual members and casual riders us Cyclistic differently. Use these trends to give recommendations for the marketing team to turn casual riders into members.
+* Shareholders: Marketing team and Executive team
