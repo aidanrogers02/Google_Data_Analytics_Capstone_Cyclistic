@@ -90,3 +90,8 @@ I noticed that casual riders were using bikes much more on the weekends than the
 ![Riders Per Hour](/Charts_and_Tables/riders_by_hour.png)
 ![Riders Per Hour Casuals](/Charts_and_Tables/riders_by_hour_cas.png)
 ![Riders Per Hour Members](/Charts_and_Tables/riders_by_hour_mem.png)
+
+
+### Analysis in PostgreSQL
+
+After I had noticed some initial trends in Excel, namely that members seem to use Cyclistic to commute more than casual riders, I decided to begin my analysis in SQL. I knew I could work with the data in different ways in SQL especially when it came rides based on the time of year. I made an individual table
