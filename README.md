@@ -74,15 +74,19 @@ I began my analysis in Excel by looking at broad trends in the data. Like how ma
 ![Casuals vs Members](/Charts_and_Tables/casvmem.png)
 ![Casuals vs Members in the types of bikes](/Charts_and_Tables/casvmem_biketype.png)
 
+I saw how many casual riders there were and how there was a good chance to convert these riders into members.
 I then looked into how the day of the week influenced how many people rode each day. First starting with all of the riders combined and then seeing how casual riders differed in their day preference from members
 
 ![Riders Per Day](/Charts_and_Tables/rider_count.png)
-![Riders Per Day by Casuals and Members](/Charts_and_Tables/rider_count_memcas.png)
+![Riders Per Day by Casuals and Members](/Charts_and_Tables/riders_count_memcas.png)
 
 I then looked into the average duration that riders were out on each day in the same groups.
 
 ![Average Duration Per Day](/Charts_and_Tables/riders_avgdur.png)
 ![Average Duration Per Day](/Charts_and_Tables/avgdur_memcas.png)
 
+I noticed that casual riders were using bikes much more on the weekends than the members were. The members tended to ride their bikes a consistent amount throughout the week. I started to wonder if this difference might be due to members using bikes to commute more so I moved onto looking into how casuals and members differed on their trends on what time they started their rides.
 
-
+![Riders Per Hour](/Charts_and_Tables/riders_by_hour.png)
+![Riders Per Hour Casuals](/Charts_and_Tables/riders_by_hour_cas.png)
+![Riders Per Hour Members](/Charts_and_Tables/riders_by_hour_mem.png)
