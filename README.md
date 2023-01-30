@@ -73,3 +73,16 @@ My analysis was done in Excel, PostgreSQL, and R. A I remade some of the charts 
 I began my analysis in Excel by looking at broad trends in the data. Like how many members vs casual riders there are and what type of bike each rider tends to prefer.   
 ![Casuals vs Members](/Charts_and_Tables/casvmem.png)
 ![Casuals vs Members in the types of bikes](/Charts_and_Tables/casvmem_biketype.png)
+
+I then looked into how the day of the week influenced how many people rode each day. First starting with all of the riders combined and then seeing how casual riders differed in their day preference from members
+
+![Riders Per Day](/Charts_and_Tables/rider_count.png)
+![Riders Per Day by Casuals and Members](/Charts_and_Tables/rider_count_memcas.png)
+
+I then looked into the average duration that riders were out on each day in the same groups.
+
+![Average Duration Per Day](/Charts_and_Tables/riders_avgdur.png)
+![Average Duration Per Day](/Charts_and_Tables/avgdur_memcas.png)
+
+
+
