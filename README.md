@@ -36,3 +36,11 @@ My next step was to prepare my data for cleaning and analysis. I had to ask myse
   * Use only the most essential columns when loading them into a database
   * Make note of empty data but proceed on as there is still ample data available. Also use numbers.Abs() to convert any negative trip durations to positive
   * Transform data in excel to get down to the essential columns and data for SQL
+
+## Process
+I now had to clean the bicycle lending data to get it ready for analysis. 
+
+### Tools
+* Microsoft Power Query for preliminary analysis and data cleaning. Take the cleaned data from here and use it in SQL and R. Use pivot tables to find some trends among the data.
+* SQL for main analysis, can handle all of the data properly. Create a PostgreSQL table to hold all of the data for the year. Upload all data and list its quarter.
+* R for some extra analysis. See if there are any trends that went unnoticed with R.
