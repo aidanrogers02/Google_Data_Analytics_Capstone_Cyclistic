@@ -23,15 +23,15 @@ My next step was to prepare my data for cleaning and analysis. I had to ask myse
 * Pros: 
   * Data is from the company itself so it should be quite reliable. 
 * Issues: 
- * Data is too big to fit in an Excel spreadsheet (~1,600,000 rows per sheet)
- Column names are inconsistent
- Data have inconsistent standards. Some sheets use “Customer” and “Subscriber” while some use “Member” and “Casual”
- Some have more columns than others
- A decent amount of missing data, bike rides with no station starting name, or with no trip duration
- Steps Moving Forward: 
- Bring Data into an SQL database and into R to make it fit
- Make the column names consistent
- Make all member types use “Member” and “Casual”
- Use only the most essential columns when loading them into a database
- Make note of empty data but proceed on as there is still ample data available. Also use numbers.Abs() to convert any negative trip durations to positive
- Transform data in excel to get down to the essential columns and data for SQL
+  * Data is too big to fit in an Excel spreadsheet (~1,600,000 rows per sheet)
+  * Column names are inconsistent
+  Data have inconsistent standards. Some sheets use “Customer” and “Subscriber” while some use “Member” and “Casual”
+  Some have more columns than others
+  A decent amount of missing data, bike rides with no station starting name, or with no trip duration
+  Steps Moving Forward: 
+  Bring Data into an SQL database and into R to make it fit
+  Make the column names consistent
+  Make all member types use “Member” and “Casual”
+  Use only the most essential columns when loading them into a database
+  Make note of empty data but proceed on as there is still ample data available. Also use numbers.Abs() to convert any negative trip durations to positive
+  Transform data in excel to get down to the essential columns and data for SQL
