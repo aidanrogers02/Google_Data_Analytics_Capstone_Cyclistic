@@ -71,5 +71,5 @@ My analysis was done in Excel, PostgreSQL, and R. A I remade some of the charts 
 ### Analysis in Excel 
 
 I began my analysis in Excel by looking at broad trends in the data. Like how many members vs casual riders there are and what type of bike each rider tends to prefer.
-![Casuals vs Members](/Charts_and_Graphs/casvmem.png)
-![Casuals vs Members in the types of bikes](/Charts_and_Graphs/casvmem_biketype.png)
+![Casuals vs Members](Charts_and_Graphs/casvmem.png)
+![Casuals vs Members in the types of bikes](Charts_and_Graphs/casvmem_biketype.png)
