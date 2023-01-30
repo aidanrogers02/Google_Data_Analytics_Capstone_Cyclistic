@@ -29,7 +29,8 @@ My next step was to prepare my data for cleaning and analysis. I had to ask myse
   * Some have more columns than others
   * A decent amount of missing data, bike rides with no station starting name, or with no trip duration
 * Steps Moving Forward: 
-  * Bring Data into an SQL database and into R to make it fit
+  * Bring Data into an SQL database and into R where it will fit
+  * Transform data using Microsoft Power Query before making a data connection to Excel
   * Make the column names consistent
   * Make all member types use “Member” and “Casual”
   * Use only the most essential columns when loading them into a database
