@@ -43,7 +43,7 @@ My next step was to prepare my data for cleaning and analysis. I had to ask myse
 * Transform data in excel to get down to the essential columns and data for SQL
 
 ## Process
-I now had to clean the bicycle lending data to get it ready for analysis. 
+I now had to clean the bicycle lending data to get it ready for analysis. I had some difficulty in this phase finding out how to actually work with such a large amount of data. While researching how to work with millions of rows of data I found Microsoft Power Query, a powerful tool in Excel to transform files of data at a time.
 
 ### Tools
 * Microsoft Power Query for preliminary analysis and data cleaning. Take the cleaned data from here and use it in SQL and R. Use pivot tables to find some trends among the data.
@@ -63,3 +63,13 @@ I now had to clean the bicycle lending data to get it ready for analysis.
 * Create a table for each month and create a subquery to query all data at once
 * Add the quarter of the year to each row
 
+## Analyze
+Now for the analysis to begin. This was the an exciting phase of the capstone project, finding trends and trying to figure out ways to answer the guiding question: "How do annual members and casual riders use Cyclistic bikes differently?". I had a lot of fun exploring the data with charts and tables to find different stories within the data and finding the ones that most applied to my business task.
+
+My analysis was done in Excel, PostgreSQL, and R. A I remade some of the charts I did in Excel with Tableau as well. The order in which I used the tools was generally Excel, SQL, R, and then Tableau but I did move between the tools as new ideas came to me and I noticed new trends
+
+### Analysis in Excel 
+
+I began my analysis in Excel by looking at broad trends in the data. Like how many members vs casual riders there are and what type of bike each rider tends to prefer.
+![Casuals vs Members](/Charts_and_Graphs/casvmem.png)
+![Casuals vs Members in the types of bikes](/Charts_and_Graphs/casvmem_biketype.png)
