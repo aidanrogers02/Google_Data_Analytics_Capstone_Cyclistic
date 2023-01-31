@@ -122,7 +122,7 @@ The final thing I wanted to exlpore in SQL were what were the most popular locat
 
 ![Riders Per Hour](/Charts_and_Tables/mem_cas_intop3loc.png)
 
-I then went right back to Excel to see what the most popular locations for riders to start from were, also grouped by the type of rider. This way I could see if Casual riders often made up the highest number of riders at top locations, which I would see they did.
+I then went right back to SQL to see what the most popular locations for riders to start from were, grouped by the type of rider. This way I could see if casual riders often made up the highest number of riders at top locations, which I would see they did.
 
 ![Riders Per Hour](/Charts_and_Tables/pop5_locations.png)
 
