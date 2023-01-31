@@ -3,9 +3,7 @@
 ###### Date: 1/30/2023
 
 ## About
-My final capstone project for the Google Data Analytics Certification. I tackled a sample set of data and went through all of the steps of the data analysis process with it: ask, prepare, process, analyze, share, and act.
-
-Tools Used: Excel, PostgreSQL, R, Tableau, PowerPoint
+My final capstone project for the Google Data Analytics Certification. I tackled a sample set of data from a fictional bike sharing and went through all of the steps of the data analysis process with it: ask, prepare, process, analyze, share, and act. I utilized Excel, PostgreSQL, R, Tableau, and PowerPoint to work with over 5 million rows of data to clean, analyze, and present it in a comprehensible manner.
 
 You can view my final presentation on the analysis here: [Cyclistic Presentation By: Aidan Rogers](https://docs.google.com/presentation/d/1MVj_kx36tiJQDnXq00ywdDfrCvHLlRdH/edit?usp=sharing&ouid=105273385533473543058&rtpof=true&sd=true)
 
