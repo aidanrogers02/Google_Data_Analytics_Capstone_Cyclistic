@@ -4,7 +4,7 @@
 My final capstone project for the Google Data Analytics Certification. I tackled a sample set of data and went through all of the steps of the data analysis process with it: ask, prepare, process, analyze, share, and act.
 
 ## Table of Contents
-* [Scenario]()
+* [Scenario](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/README.md#scenario)
 * 
 * 
 *
