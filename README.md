@@ -120,7 +120,7 @@ I noticed that casual riders were using bikes much more on the weekends than the
 
 After I had noticed some initial trends in Excel, namely that members seem to use Cyclistic to commute more than casual riders, I decided to begin my analysis in SQL. I knew I could work with the data in different ways in SQL especially when it came rides based on the time of year. I made an individual tables for every month of data and added a columnn to the data that tracked what quarter of the year the month was in.
 
-(You can view the PostgreSQL code for making the tables and the queries that I used in this analysis in this repository [here](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/postgresql_cyclistic_code.sql))
+(You can view the [PostgreSQL (link)]((https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/postgresql_cyclistic_code.sql))  code for making the tables and the queries that I used in this analysis in this repository)
 
 I first queried for the number of riders in each quarter grouped by casual riders and members. 
 
@@ -154,7 +154,7 @@ I then went right back to SQL to see what the most popular locations for riders 
 
 I have often worked with Python over R but I wanted to give anaylsis with R a shot since I had just learned about it and the Tidyverse (data manipulation libraries in R). I figured R could be a good tool to clean the data again and vreify results along with finding any trends I may have missed with SQL and Excel.
 
-(You can view the [R Markdown file](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/Google_Data_Cyclistic_RMD.Rmd) in this repository here, much of it was provided by google but I modified it to fit for my purposes as well)
+(You can view the [R Markdown file (link)](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/Google_Data_Cyclistic_RMD.Rmd) in this repository here, much of it was provided by google but I modified it to fit for my purposes as well)
 
 To start I used the summary() function to get some basic statistical values from the data such as the mean, median, and max ride lengths from the data (in seconds). As can be seen the casual riders do take longer rides in every regard.
 
@@ -170,7 +170,7 @@ I also checked again to see if casual riders do indeed take longer rides and rid
 
 Now it was on to another truly exciting part of the anaylsis, the share phase. The share phase is where I got to get together my findings and they them out in an organized and easily understood manner to answer the business task and present my findings to stakeholders. I put my most crucial and intriguing findings into a PowerPoint along with the data story and recommendations I have to answer the guiding question. 
 
-(You can find the [PowerPoint](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/Cyclistic_presentation.pptx) in the repository and a [Google Slides](https://docs.google.com/presentation/d/1MVj_kx36tiJQDnXq00ywdDfrCvHLlRdH/edit?usp=sharing&ouid=105273385533473543058&rtpof=true&sd=true) version of it at the top of this page and here)
+(You can find the [PowerPoint (link)](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/Cyclistic_presentation.pptx) in the repository and a [Google Slides (link)](https://docs.google.com/presentation/d/1MVj_kx36tiJQDnXq00ywdDfrCvHLlRdH/edit?usp=sharing&ouid=105273385533473543058&rtpof=true&sd=true) version of it at the top of this page and here)
 
 The most important trends I found in the data that relate to the question of "How do annual members and casual riders use Cyclistic bikes differently?" were that:
 1. Casual riders tend to ride Cyclistic bikes much more on the afternoons and for much longer on average than members
