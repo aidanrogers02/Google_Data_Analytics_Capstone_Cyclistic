@@ -149,6 +149,7 @@ I then went right back to SQL to see what the most popular locations for riders 
 
 I have often worked with Python over R but I wanted to give anaylsis with R a shot since I had just learned about it and the Tidyverse (data manipulation libraries in R). I figured R could be a good tool to clean the data again and vreify results along with finding any trends I may have missed with SQL and Excel.
 
+(You can view the R markdown file in this repository, much of it was provided by google but I modified it to fit for my purposes as well)
 
 To start I used the summary() function to get some basic statistical values from the data such as the mean, median, and max ride lengths from the data (in seconds). As can be seen the casual riders do take longer rides in every regard.
 
