@@ -106,24 +106,37 @@ I then queried for how many riders rode in each month, first by all riders then 
 
 (All riders)  
 
-![Riders Per Hour](/Charts_and_Tables/riders_by_month.png)
+![Riders By Month](/Charts_and_Tables/riders_by_month.png)
   
 (Casual riders only)  
 
-![Riders Per Hour](/Charts_and_Tables/only_casual_by_month.png)
+![Riders By Month Casual Only](/Charts_and_Tables/only_casual_by_month.png)
 
 For all riders quarter 3 is when the number of rides really picks up, and for casual riders July is when by far the highest number of riders are out. An important trend to note
 
 After seeing when the most riders were out I wanted to check how long casual riders rode vs members by quarter and found that in every quarter casual riders still take longer bike rides on average with cyclistic bikes 
 
-![Riders Per Hour](/Charts_and_Tables/avg_ride_len_by_q_and_user.png)
+![Average Ride Length by Quarter and User](/Charts_and_Tables/avg_ride_len_by_q_and_user.png)
 
 The final thing I wanted to exlpore in SQL were what were the most popular locations for riders to start from. I first started by going back to Excel and finding the top 3 most popular locations in general.
 
-![Riders Per Hour](/Charts_and_Tables/mem_cas_intop3loc.png)
+![Top 3 locations](/Charts_and_Tables/mem_cas_intop3loc.png)
 
 I then went right back to SQL to see what the most popular locations for riders to start from were, grouped by the type of rider. This way I could see if casual riders often made up the highest number of riders at top locations, which I would see they did.
 
-![Riders Per Hour](/Charts_and_Tables/pop5_locations.png)
+![Top 5 locations based on rider type](/Charts_and_Tables/pop5_locations.png)
+
+### Analysis in R
+
+I have often worked with Python over R but I wanted to give anaylsis with R a shot since I had just learned about it and the Tidyverse (data manipulation libraries in R). I figured R could be a good tool to clean the data again and vreify results along with finding any trends I may have missed with SQL and Excel.
 
 
+To start I used the summary() function to get some basic statistical values from the data such as the mean, median, and max ride lengths from the data (in seconds). As can be seen the casual riders do take longer rides in every regard.
+
+![R Summary](/Charts_and_Tables/r_results.png)
+
+I also checked again to see if casual riders do indeed take longer rides and ride more on the weekends than members do. This information would point to the fact that casual members tend to take Cyclistic bikes for recreational rides more often while members take them for commutes.
+
+![R Ride Durations and Number of Rides](/Charts_and_Tables/r_rides_avgdur.png)
+![R Number of Rides Per Day](/Charts_and_Tables/r_riders_day_graph.png)
+![R Average Duration Each Day](/Charts_and_Tables/r_avgdur_byday.png)
