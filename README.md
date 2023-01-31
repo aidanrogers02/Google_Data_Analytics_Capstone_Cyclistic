@@ -65,6 +65,10 @@ I now had to clean the bicycle lending data to get it ready for analysis. I had 
 * Create a table for each month and create a subquery to query all data at once
 * Add the quarter of the year to each row
 
+Here is a preview of some of the cleaned data to give a better idea of how it looks 
+
+![Preview of Clean Data](/Charts_and_Tables/preview_of_clean_data.png)
+
 ## Analyze
 Now for the analysis to begin. This was the an exciting phase of the capstone project, finding trends and trying to figure out ways to answer the guiding question: "How do annual members and casual riders use Cyclistic bikes differently?". I had a lot of fun exploring the data with charts and tables to find different stories within the data and finding the ones that most applied to my business task.
 
