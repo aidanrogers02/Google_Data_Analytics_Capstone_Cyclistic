@@ -107,6 +107,7 @@ I then queried for how many riders rode in each month, first by all riders then 
 (All riders)  
 
 ![Riders Per Hour](/Charts_and_Tables/riders_by_month.png)
+  
 (Casual riders only)  
 
 ![Riders Per Hour](/Charts_and_Tables/only_casual_by_month.png)
