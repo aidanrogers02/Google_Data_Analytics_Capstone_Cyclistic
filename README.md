@@ -1,6 +1,8 @@
 # Google_Data_Analytics_Capstone_Cyclistic
 ###### By: Aidan Rogers
 ###### Date: 1/30/2023
+
+## About
 My final capstone project for the Google Data Analytics Certification. I tackled a sample set of data and went through all of the steps of the data analysis process with it: ask, prepare, process, analyze, share, and act.
 
 Tools Used: Excel, PostgreSQL, R, Tableau, PowerPoint
