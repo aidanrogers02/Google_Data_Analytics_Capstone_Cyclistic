@@ -144,7 +144,7 @@ I also checked again to see if casual riders do indeed take longer rides and rid
 ![R Number of Rides Per Day](/Charts_and_Tables/r_riders_day_graph.png)
 ![R Average Duration Each Day](/Charts_and_Tables/r_avgdur_byday.png)
 
-** Share 
+## Share 
 
 Now it was on to another truly exciting part of the anaylsis, the share phase. The share phase is where I got to get together my findings and they them out in an organized and easily understood manner to answer the business task and present my findings to stakeholders. I put my most crucial and intriguing findings into a PowerPoint along with the data story and recommendations I have to answer the guiding question. 
 
