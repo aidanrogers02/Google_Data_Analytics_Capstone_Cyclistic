@@ -153,10 +153,22 @@ Now it was on to another truly exciting part of the anaylsis, the share phase. T
 The most important trends I found in the data that relate to the question of "How do annual members and casual riders use Cyclistic bikes differently?" were that:
 1. Casual riders tend to ride Cyclistic bikes much more on the afternoons and for much longer on average than members
 2. Casual riders start to ride the most in quarter 3 of the year and more specifically July
-3. Causal riders are grouped together at very populous locations that they tend to start at.
+3. Causal riders are grouped together at very populous locations that they tend to start at
 
 These trends were all critical to include and find ways to capitlize on in my presentation. These means of capitlizing are key part of the "Act" phase.
 
 ## Act
+
+The act phase is where you act on the findings and trends that you discovered in the data based on the guiding question. I came up with three recommendations for the marketing team to perform to help turn casual riders into members.
+
+1. Create advertisements to encourage casual members to start commuting with cyclistic
+2. Start rolling out ads and marketing budget in quarter 3, especially in July to have the best chance of converting members
+3. Target ads in specific locations that hold a lot of casual Cylclistic riders
+
+### Steps Moving Forward 
+
+There are some steps moving forward that I thought of that could help improve the analysis or make it more reliable in the future.
+
+* 
 
 
