@@ -5,7 +5,7 @@ My final capstone project for the Google Data Analytics Certification. I tackled
 
 ## Table of Contents
 * [Scenario](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/README.md#scenario)
-* [ASK](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/README.md#ask)
+* [Ask](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/README.md#ask)
 * [Prepare](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/README.md#prepare)
 * [Process](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/README.md#process)
 * [Analyze](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/README.md#analyze)
