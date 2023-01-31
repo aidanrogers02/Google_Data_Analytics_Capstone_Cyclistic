@@ -94,4 +94,33 @@ I noticed that casual riders were using bikes much more on the weekends than the
 
 ### Analysis in PostgreSQL
 
-After I had noticed some initial trends in Excel, namely that members seem to use Cyclistic to commute more than casual riders, I decided to begin my analysis in SQL. I knew I could work with the data in different ways in SQL especially when it came rides based on the time of year. I made an individual table
+After I had noticed some initial trends in Excel, namely that members seem to use Cyclistic to commute more than casual riders, I decided to begin my analysis in SQL. I knew I could work with the data in different ways in SQL especially when it came rides based on the time of year. I made an individual tables for every month of data and added a columnn to the data that tracked what quarter of the year the month was in.
+
+(You can view the PostgreSQL code for making the tables and the queries that I used in this analysis)
+
+I first queried for the number of riders in each quarter grouped by casual riders and members. 
+
+![Riders Per Quarter](/Charts_and_Tables/mem_cas_by_q.png)
+
+I then queried for how many riders rode in each month, first by all riders then second by only casual riders.
+
+(All riders)
+![Riders Per Hour](/Charts_and_Tables/riders_by_month.png)
+(Casual riders only)
+![Riders Per Hour](/Charts_and_Tables/only_casual_by_month.png)
+
+For all riders quarter 3 is when the number of rides really picks up, and for casual riders July is when by far the highest number of riders are out. An important trend to note
+
+After seeing when the most riders were out I wanted to check how long casual riders rode vs members by quarter and found that in every quarter casual riders still take longer bike rides on average with cyclistic bikes 
+
+![Riders Per Hour](/Charts_and_Tables/avg_ride_len_by_q_and_user.png)
+
+The final thing I wanted to exlpore in SQL were what were the most popular locations for riders to start from. I first started by going back to Excel and finding the top 3 most popular locations in general.
+
+![Riders Per Hour](/Charts_and_Tables/mem_cas_intop3loc.png)
+
+I then went right back to Excel to see what the most popular locations for riders to start from were, also grouped by the type of rider. This way I could see if Casual riders often made up the highest number of riders at top locations, which I would see they did.
+
+![Riders Per Hour](/Charts_and_Tables/pop5_locations.png)
+
+
