@@ -1,4 +1,4 @@
-# Google_Data_Analytics_Capstone_Cyclistic
+# Google Data Analytics Capstone For Cyclistic
 ###### By: Aidan Rogers
 ###### Date: 1/30/2023
 
