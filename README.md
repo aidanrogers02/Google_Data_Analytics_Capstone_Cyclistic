@@ -104,9 +104,11 @@ I first queried for the number of riders in each quarter grouped by casual rider
 
 I then queried for how many riders rode in each month, first by all riders then second by only casual riders.
 
-(All riders)
+(All riders)  
+
 ![Riders Per Hour](/Charts_and_Tables/riders_by_month.png)
-(Casual riders only)
+(Casual riders only)  
+
 ![Riders Per Hour](/Charts_and_Tables/only_casual_by_month.png)
 
 For all riders quarter 3 is when the number of rides really picks up, and for casual riders July is when by far the highest number of riders are out. An important trend to note
