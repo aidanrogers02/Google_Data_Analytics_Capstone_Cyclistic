@@ -3,6 +3,9 @@
 ###### Date: 1/30/2023
 My final capstone project for the Google Data Analytics Certification. I tackled a sample set of data and went through all of the steps of the data analysis process with it: ask, prepare, process, analyze, share, and act.
 
+You can view my final presentation on the analysis here: [Google Slides](https://docs.google.com/presentation/d/1MVj_kx36tiJQDnXq00ywdDfrCvHLlRdH/edit?usp=sharing&ouid=105273385533473543058&rtpof=true&sd=true)
+
+
 ## Table of Contents
 * [Scenario](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/README.md#scenario)
 * [Ask](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/README.md#ask)
@@ -165,7 +168,7 @@ I also checked again to see if casual riders do indeed take longer rides and rid
 
 Now it was on to another truly exciting part of the anaylsis, the share phase. The share phase is where I got to get together my findings and they them out in an organized and easily understood manner to answer the business task and present my findings to stakeholders. I put my most crucial and intriguing findings into a PowerPoint along with the data story and recommendations I have to answer the guiding question. 
 
-(You can find the PowerPoint in the repository and a Google Slides version of it at the top of this page)
+(You can find the PowerPoint in the repository and a [Google Slides](https://docs.google.com/presentation/d/1MVj_kx36tiJQDnXq00ywdDfrCvHLlRdH/edit?usp=sharing&ouid=105273385533473543058&rtpof=true&sd=true) version of it at the top of this page and here)
 
 The most important trends I found in the data that relate to the question of "How do annual members and casual riders use Cyclistic bikes differently?" were that:
 1. Casual riders tend to ride Cyclistic bikes much more on the afternoons and for much longer on average than members
