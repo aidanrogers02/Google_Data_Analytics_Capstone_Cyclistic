@@ -1,4 +1,6 @@
 # Google_Data_Analytics_Capstone_Cyclistic
+###### By: Aidan Rogers
+###### Date: 1/30/2023
 My final capstone project for the Google Data Analytics Certification
 
 ## Scenario
@@ -169,6 +171,8 @@ The act phase is where you act on the findings and trends that you discovered in
 
 There are some steps moving forward that I thought of that could help improve the analysis or make it more reliable in the future.
 
-* 
+* Make sure location data is saved and stored, many starting and ending locations were NULL in the data files
+* Make sure stating and ending times are accurate, some of the data points had ending times that were before their stating times
+* Look more into the different bikes casual riders use vs memebers since they tend to prefer different bikes to some degree, this could be useful information
 
 
