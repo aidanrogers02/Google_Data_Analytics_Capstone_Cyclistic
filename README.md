@@ -120,7 +120,7 @@ I noticed that casual riders were using bikes much more on the weekends than the
 
 After I had noticed some initial trends in Excel, namely that members seem to use Cyclistic to commute more than casual riders, I decided to begin my analysis in SQL. I knew I could work with the data in different ways in SQL especially when it came rides based on the time of year. I made an individual tables for every month of data and added a columnn to the data that tracked what quarter of the year the month was in.
 
-(You can view the [PostgreSQL (link)]((https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/postgresql_cyclistic_code.sql))  code for making the tables and the queries that I used in this analysis in this repository)
+(You can view the [PostgreSQL (link)](https://github.com/aidanrogers02/Google_Data_Analytics_Capstone_Cyclistic/blob/main/postgresql_cyclistic_code.sql)  code for making the tables and the queries that I used in this analysis in this repository)
 
 I first queried for the number of riders in each quarter grouped by casual riders and members. 
 
