@@ -71,6 +71,9 @@ My analysis was done in Excel, PostgreSQL, and R. A I remade some of the charts 
 ### Analysis in Excel 
 
 I began my analysis in Excel by looking at broad trends in the data. Like how many members vs casual riders there are and what type of bike each rider tends to prefer.   
+
+(These charts were redone in Tableau to improve their look)
+
 ![Casuals vs Members](/Charts_and_Tables/casvmem.png)
 ![Casuals vs Members in the types of bikes](/Charts_and_Tables/casvmem_biketype.png)
 
@@ -140,3 +143,20 @@ I also checked again to see if casual riders do indeed take longer rides and rid
 ![R Ride Durations and Number of Rides](/Charts_and_Tables/r_rides_avgdur.png)
 ![R Number of Rides Per Day](/Charts_and_Tables/r_riders_day_graph.png)
 ![R Average Duration Each Day](/Charts_and_Tables/r_avgdur_byday.png)
+
+** Share 
+
+Now it was on to another truly exciting part of the anaylsis, the share phase. The share phase is where I got to get together my findings and they them out in an organized and easily understood manner to answer the business task and present my findings to stakeholders. I put my most crucial and intriguing findings into a PowerPoint along with the data story and recommendations I have to answer the guiding question. 
+
+(You can find the PowerPoint in the repository and a Google Slides version of it at the top of this page)
+
+The most important trends I found in the data that relate to the question of "How do annual members and casual riders use Cyclistic bikes differently?" were that:
+1. Casual riders tend to ride Cyclistic bikes much more on the afternoons and for much longer on average than members
+2. Casual riders start to ride the most in quarter 3 of the year and more specifically July
+3. Causal riders are grouped together at very populous locations that they tend to start at.
+
+These trends were all critical to include and find ways to capitlize on in my presentation. These means of capitlizing are key part of the "Act" phase.
+
+## Act
+
+
