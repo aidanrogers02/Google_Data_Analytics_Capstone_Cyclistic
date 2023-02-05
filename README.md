@@ -93,7 +93,7 @@ My analysis was done in Excel, PostgreSQL, and R. A I remade some of the charts 
 
 I began my analysis in Excel by looking at broad trends in the data. Like how many members vs casual riders there are and what type of bike each rider tends to prefer.   
 
-(These charts were redone in Tableau to improve their look)
+(These charts were redone in Power BI to improve their look)
 
 ![Casuals vs Members](/Charts_and_Tables/casvmem.png)
 ![Casuals vs Members in the types of bikes](/Charts_and_Tables/casvmem_biketype.png)
