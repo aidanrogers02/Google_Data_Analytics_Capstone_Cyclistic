@@ -85,7 +85,7 @@ Here is a preview of some of the cleaned data to give a better idea of how it lo
 ![Preview of Clean Data](/Charts_and_Tables/preview_of_clean_data.PNG)
 
 ## Analyze
-Now for the analysis to begin. This was the an exciting phase of the capstone project, finding trends and trying to figure out ways to answer the guiding question: "How do annual members and casual riders use Cyclistic bikes differently?". I had a lot of fun exploring the data with charts and tables to find different stories within the data and finding the ones that most applied to my business task.
+Now for the analysis to begin. This was the most exciting phase of the capstone project, finding trends and trying to figure out ways to answer the guiding question: "How do annual members and casual riders use Cyclistic bikes differently?". I had a lot of fun exploring the data with charts and tables to find different stories within the data and finding the ones that most applied to my business task.
 
 My analysis was done in Excel, PostgreSQL, and R. A I remade some of the charts I did in Excel with Tableau as well. The order in which I used the tools was generally Excel, SQL, R, and then Tableau but I did move between the tools as new ideas came to me and I noticed new trends
 
