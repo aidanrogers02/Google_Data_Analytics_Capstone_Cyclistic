@@ -60,7 +60,7 @@ My next step was to prepare my data for cleaning and analysis. I had to ask myse
 * Transform data in excel to get down to the essential columns and data for SQL
 
 ## Process
-I now had to clean the bicycle lending data to get it ready for analysis. I had some difficulty in this phase finding out how to actually work with such a large amount of data. While researching how to work with millions of rows of data I found Microsoft Power Query, a powerful tool in Excel to transform files of data at a time.
+I now had to clean the bicycle lending data to get it ready for analysis. I had some difficulty in this phase finding out how to actually work with such a large amount of data. While researching how to work with millions of rows of data I found Microsoft Power Query, a powerful tool in Excel to transform many files of data at a time.
 
 ### Tools
 * Microsoft Power Query for preliminary analysis and data cleaning. Take the cleaned data from here and use it in SQL and R. Use pivot tables to find some trends among the data.
