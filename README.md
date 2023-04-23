@@ -183,6 +183,8 @@ These trends were all critical to include and find ways to capitlize on in my pr
 
 The act phase is where you act on the findings and trends that you discovered in the data based on the guiding question. I came up with three recommendations for the marketing team to perform to help turn casual riders into members.
 
+### Recommendations
+
 1. Create advertisements to encourage casual members to start commuting with cyclistic
 2. Start rolling out ads and marketing budget in quarter 3, especially in July to have the best chance of converting members
 3. Target ads in specific locations that hold a lot of casual Cylclistic riders
